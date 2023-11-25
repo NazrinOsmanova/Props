@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Props/static/css/main.d70e0423.css",
+    "main.js": "/Props/static/js/main.51176346.js",
+    "index.html": "/Props/index.html",
+    "main.d70e0423.css.map": "/Props/static/css/main.d70e0423.css.map",
+    "main.51176346.js.map": "/Props/static/js/main.51176346.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d70e0423.css",
+    "static/js/main.51176346.js"
+  ]
+}
